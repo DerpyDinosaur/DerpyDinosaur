@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Adam Brickhill  
+# Howdy!
 
 Insert welcome message here...
 
